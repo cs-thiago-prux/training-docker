@@ -12,7 +12,8 @@
 
 - [x] Show your repository
 
-
+## Use Markdown
+- [x] Create a document rich in Markdown features. This document must be a ~~README.mb~~ README.md file in some version control system like Github or Bitbucket
 
 # *Powered by*
 ![Concrete Solutions](http://www.concretesolutions.com.br/wp-content/uploads/2016/08/logo.png)
