@@ -1,0 +1,15 @@
+###############################################
+# Install and configure Nginx with custom site#
+###############################################
+
+#Using Debian
+FROM debian:jessie
+
+#Author
+MAINTAINER Thiago Prux
+
+RUN apt-get update
+
+RUN apt-get -y install nginx 
+
+
